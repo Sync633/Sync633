@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural do interior de São Paulo. Adoro a área de tecnologia: meu primeiro contato foi aos 7 anos, observando meu pai montar computadores. Agora, encontrei minha paixão em escrever códigos e explorar o universo do desenvolvimento front-end, buscando sempre aprender e evoluir.
+Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no interior de São Paulo. Adoro a área de tecnologia: meu primeiro contato foi aos 7 anos, observando meu pai montar computadores. Agora, encontrei minha paixão em escrever códigos e explorar o universo do desenvolvimento front-end, buscando sempre aprender e evoluir.
 
 <br/>
 
