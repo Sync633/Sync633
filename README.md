@@ -7,7 +7,7 @@ Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no i
 <br/>
 
 - 🎓 Curso Técnico em Desenvolvimento de Sistemas na ETEC-Registro (3/3)
-- 📚 Cursando DSM na Fatec-Registro (1/6)
+- 📚 Cursando DSM na Fatec-Registro (2/6)
 
 ---
 
