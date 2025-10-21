@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Olá, Sou o Miguel!
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Web`**
 
-Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no interior de São Paulo. Adoro a área de tecnologia: meu primeiro contato foi aos 7 anos, observando meu pai montar computadores. Agora, encontrei minha paixão em escrever códigos e explorar o universo do desenvolvimento front-end, buscando sempre aprender e evoluir.
+Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no interior de São Paulo. Adoro a área de tecnologia: meu primeiro contato foi aos 7 anos, observando meu pai montar computadores. Atualmente sou **Estagiário de TI na Ribeira Beer (Ambev)** e encontrei minha paixão em escrever códigos e explorar o universo do desenvolvimento web, buscando sempre aprender e evoluir. 
 
 <br/>
 
@@ -37,6 +37,14 @@ Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no i
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img
+  align="left"
+  alt="NodeJS"
+  title="NodeJS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
 <img 
     align="left" 
     alt="TypeScript"
@@ -52,22 +60,6 @@ Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no i
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
