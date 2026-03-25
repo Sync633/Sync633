@@ -2,12 +2,12 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Miguel Santos Pereira, tenho 18 anos e sou natural de Jacupiranga, no interior de São Paulo. Adoro a área de tecnologia: meu primeiro contato foi aos 7 anos, observando meu pai montar computadores. Atualmente sou **Estagiário de TI na Ribeira Beer (Ambev)** e encontrei minha paixão em escrever códigos e explorar o universo do desenvolvimento web, buscando sempre aprender e evoluir. 
+Me chamo Miguel Santos Pereira, tenho 19 anos e sou natural de Jacupiranga, no interior de São Paulo. Adoro a área de tecnologia: meu primeiro contato foi aos 7 anos, observando meu pai montar computadores. Atualmente sou **Estagiário de TI na Ribeira Beer (Ambev)** e encontrei minha paixão em escrever códigos e explorar o universo do desenvolvimento web, buscando sempre aprender e evoluir. 
 
 <br/>
 
 - 🎓 Curso Técnico em Desenvolvimento de Sistemas na ETEC-Registro (3/3)
-- 📚 Cursando DSM na Fatec-Registro (2/6)
+- 📚 Cursando DSM na Fatec-Registro (3/6)
 
 ---
 
